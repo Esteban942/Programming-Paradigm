@@ -1,5 +1,5 @@
 # FUNCTIONAL PROGRAMMING AND LOGIC PROGRAMMING
 
 This repository contains some problems and solutions using two well known programming paradigms:
-- Functional Programming coded in Haskell.
-- Logic Programming coded in Prolog.
+- Functional Programming develop in Haskell.
+- Logic Programming develop in Prolog.
